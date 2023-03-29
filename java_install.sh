@@ -8,7 +8,6 @@ javac -version
 #install maven
 sudo apt install maven -y
 
-docker-compose up -d
 #install docker
 # sudo apt install docker
 
